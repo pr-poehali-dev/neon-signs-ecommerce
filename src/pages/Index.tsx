@@ -105,7 +105,6 @@ export default function Index() {
             {[
               { title: "Ресторан", price: "от 15,000 ₽", color: "neon-pink" },
               { title: "Магазин", price: "от 12,000 ₽", color: "neon-cyan" },
-              { title: "Бар", price: "от 18,000 ₽", color: "neon-yellow" },
               { title: "Кафе", price: "от 10,000 ₽", color: "neon-green" },
               { title: "Офис", price: "от 20,000 ₽", color: "neon-purple" },
               { title: "Салон", price: "от 14,000 ₽", color: "neon-pink" }
